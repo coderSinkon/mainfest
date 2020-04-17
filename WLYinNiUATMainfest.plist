@@ -23,7 +23,7 @@
 					<string>software-package</string>
 
 					<key>url</key>
-<!-- 					</ https://test.yzn123.cc/apk/bitcoin_inny.ipa---> -->
+<!-- 					 https://test.yzn123.cc/apk/bitcoin_inny.ipa -->
 					<string>http://61.164.87.62:83/apk/bitcoin_inny.ipa</string>
 
 				</dict>
