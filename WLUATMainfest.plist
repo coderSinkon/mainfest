@@ -24,7 +24,7 @@
 
 					<key>url</key>
 
-					<string>https://test.yzn123.cc/apk/bitcoin.ipa</string>
+					<string>http://61.164.87.62:83/apk/bitcoin.ipa</string>
 
 				</dict>
 
@@ -40,7 +40,7 @@
 
 					<key>url</key>
 
-					<string>http://132.232.157.23:8086/img/download/ios/ticket57.png</string>
+					<string></string>
 
 				</dict>
 
@@ -56,7 +56,7 @@
 
 					<key>url</key>
 
-					<string>http://132.232.157.23:8086/img/download/ios/ticket512.png</string>
+					<string></string>
 
 				</dict>
 
